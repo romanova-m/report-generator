@@ -1,0 +1,9 @@
+romanova/settings/Page.class
+romanova/settings/Column.class
+romanova/settings/Settings.class
+romanova/settings/Columns.class
+romanova/App.class
+romanova/settings/SettingsDAO.class
+romanova/data/FileDAO.class
+romanova/format/TextFormatter.class
+romanova/data/FileMaker.class

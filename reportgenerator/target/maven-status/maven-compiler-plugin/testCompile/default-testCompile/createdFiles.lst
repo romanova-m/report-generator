@@ -1,0 +1,4 @@
+romanova/data/FileDAOTest.class
+romanova/data/FileMakerTest.class
+romanova/settings/SettingsDAOTest.class
+romanova/format/TextFormatterTest.class
